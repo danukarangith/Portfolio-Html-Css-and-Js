@@ -20,11 +20,23 @@ body{
 ::before, ::after{
     box-sizing: border-box;
 }
+/* .section{
+    background: var(--bg-black-900);
+    min-height: 100vh;
+    display: block;
+    position: fixed;
+    left: 270px;
+    top: 0;
+    right: 0;
+    z-index: 0;
+    opacity: 1;
+} */
 .aside{
     width: 270px;
     background:var(--bg-black-100) ;
     position: fixed;
     left: 0;
     top: 0;
+    height: 100%;
     z-index: 10;
 }
