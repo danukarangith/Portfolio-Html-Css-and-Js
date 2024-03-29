@@ -226,6 +226,16 @@ section{
     right: 20px;
     bottom: -40px;
 }
+.home-img::before{
+    content: '';
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    border-top: 10px solid var(--skin-color);
+    border-left: 10px solid var(--skin-color);
+    left: 20px;
+    top: -40px;
+}
 h3.hello{
     font-size: 28px;
     margin: 15px 0;
