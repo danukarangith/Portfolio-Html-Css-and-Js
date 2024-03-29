@@ -197,7 +197,7 @@ section{
 
 .home .home-img img{
     height: 400px;
-    /* width: 400px; */
+    width: 250px;
 }
 .home{
     min-height: 100vh;
@@ -215,6 +215,16 @@ section{
      
     text-align: center;
     position: relative;
+}
+.home-img::after{
+    content: '';
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    border-bottom: 10px solid var(--skin-color);
+    border-right: 10px solid var(--skin-color);
+    right: 20px;
+    bottom: -40px;
 }
 h3.hello{
     font-size: 28px;
