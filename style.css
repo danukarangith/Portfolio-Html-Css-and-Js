@@ -20,6 +20,9 @@ body{
 ::before, ::after{
     box-sizing: border-box;
 }
+ul{
+    list-style: none;
+}
 section{
     background:var(--bg-black-900);
     min-height: 100vh;
@@ -41,4 +44,7 @@ section{
     padding: 30px;
     height: 100%;
     z-index: 10;
+}
+.aside .logo{
+    
 }
