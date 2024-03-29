@@ -56,6 +56,17 @@ section{
     margin-right: 15px;
     position: relative;
 }
+.btn{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 35px;
+    color: white;
+    border-radius: 40px;
+    display: inline-block;
+    white-space: nowrap;
+    background: var(--skin-color);
+    transition: all 0.3s ease;
+}
 .aside{
     width: 270px;
     background:var(--bg-black-100) ;
