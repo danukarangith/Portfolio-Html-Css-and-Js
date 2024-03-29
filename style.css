@@ -49,6 +49,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
+    border-right: 1px solid var(--bg-black-50);
 }
 .aside .logo{
     position: absolute;
@@ -112,4 +113,7 @@ section{
 }
 .aside .nav li a.active{
     color: var(--skin-color);
+}
+.aside .nav li a i{
+    margin-right: 15px;
 }
