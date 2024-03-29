@@ -57,3 +57,12 @@ section{
     text-transform: capitalize;
 
 }
+.aside .logo a{
+    color: var(--text-black-900);
+    font-weight: 700;
+    
+    padding: 15px 20px;
+    font-size: 30px;
+    letter-spacing: 5px;
+
+}
