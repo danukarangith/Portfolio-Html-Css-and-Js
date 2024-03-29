@@ -205,3 +205,10 @@ h3.hello{
     font-size: 28px;
     margin: 15px 0;
 }
+h3.hello span{
+    font-family: 'Clicker Script' ,cursive;
+    font-size: 30px;
+    font-weight: 700;
+    color: var(--skin-color);
+
+}
