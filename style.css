@@ -90,6 +90,16 @@ section{
     left: 0;
 
 }
+.aside .nav-toggler span::after{
+    content: '';
+    height: 2px;
+    width: 18px;
+    background: var(--skin-color);
+    position: absolute;
+    top: 6px;
+    left: 0;
+
+}
 .aside .logo a{
     color: var(--text-black-900);
     font-weight: 700;
