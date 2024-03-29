@@ -46,5 +46,9 @@ section{
     z-index: 10;
 }
 .aside .logo{
-    
+    position: absolute;
+    top: 50px;
+    font-size: 30px;
+    text-transform: capitalize;
+
 }
