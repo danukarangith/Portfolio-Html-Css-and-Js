@@ -93,3 +93,12 @@ section{
     right: 0;
 
 }
+.aside .nav{
+    margin-top: 50px;
+}
+.aside .nav li{
+    margin-bottom: 20px;
+    
+    display: block;
+
+}
