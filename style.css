@@ -212,3 +212,10 @@ h3.hello span{
     color: var(--skin-color);
 
 }
+h3.my-professions{
+    font-size: 30px;
+    margin: 15px 0;
+}
+.typing{
+    color: var(--skin-color);
+}
