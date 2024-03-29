@@ -182,6 +182,7 @@ section{
 
 .home .home-img img{
     height: 400px;
+    /* width: 400px; */
 }
 .home{
     min-height: 100vh;
@@ -192,4 +193,11 @@ section{
     flex: 0 0 60%;
     max-width: 60%;
 
+}
+.home .home-img{
+    flex: 0 0 40%;
+    max-width: 40%;
+     
+    text-align: center;
+    position: relative;
 }
