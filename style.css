@@ -64,7 +64,7 @@ section{
     border-radius: 40px;
     display: inline-block;
     white-space: nowrap;
-    
+    border: none;
     background: var(--skin-color);
     transition: all 0.3s ease;
 }
