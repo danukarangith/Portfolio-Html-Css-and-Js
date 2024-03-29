@@ -219,3 +219,8 @@ h3.my-professions{
 .typing{
     color: var(--skin-color);
 }
+.home-info p{
+    margin-bottom: 70px;
+    font-size: 20px;
+    color: var(--text-black-700);
+}
