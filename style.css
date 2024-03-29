@@ -80,7 +80,16 @@ section{
     display: inline-block;
     position: relative;
 }
+.aside .nav-toggler span::before{
+    content: '';
+    height: 2px;
+    width: 18px;
+    background: var(--skin-color);
+    position: absolute;
+    top: -6px;
+    left: 0;
 
+}
 .aside .logo a{
     color: var(--text-black-900);
     font-weight: 700;
