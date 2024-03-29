@@ -159,3 +159,8 @@ section{
 .aside .nav li a i{
     margin-right: 15px;
 }
+ /* home css create */
+
+.home .home-img img{
+    height: 400px;
+}
