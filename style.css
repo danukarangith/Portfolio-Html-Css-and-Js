@@ -37,7 +37,7 @@ section{
     padding-left: 270px;
 }
 .hidden{
-    display: none;
+    display: none !important;
 }
 
 .padd-15{
