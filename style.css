@@ -36,6 +36,9 @@ section{
 .main-content{
     padding-left: 270px;
 }
+.hidden{
+    display: none;
+}
 
 .padd-15{
     padding-left: 15px;
