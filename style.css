@@ -33,6 +33,11 @@ section{
     padding: 0 30px;
     
 }
+.section-title h2{
+  font-size: 40px;
+  color: var( --text-black-900);
+  font-weight: 700;  
+}
 .main-content{
     padding-left: 270px;
 }
@@ -58,7 +63,13 @@ section{
 .section-title{
     flex: 0 0 100%;
     max-width: 100%;
-    background-color: red;
+    
+}
+.section-title h2{
+    font-size: 40px;
+    color: var(--text-black-900);
+    font-weight: 700;
+    position: relative;
 }
 .row{
     display: flex;
