@@ -487,7 +487,9 @@ h3.my-professions{
     color: var(--text-black-700);
 }
 /* service  */
-
+.service .container{
+    padding-bottom: 40px;
+}
 .service .service-item{
     margin-bottom: 30px;
     flex: 0 0 33.33%;
@@ -533,6 +535,11 @@ h3.my-professions{
     color: var(--text-black-900);
     font-weight: 700;
     text-transform: capitalize;
+}
+.service .service-item .service-item-inner p{
+    font-size: 16px;
+    color: var(--text-black-700);
+    line-height: 25px;
 }
 
 
