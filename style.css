@@ -317,3 +317,9 @@ h3.my-professions{
     max-width: 100%;
     
 }
+.about .about-content .about-text h3{
+    font-size: 24px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    color: var(--text-black-900);
+}
