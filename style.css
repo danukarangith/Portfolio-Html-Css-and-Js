@@ -527,6 +527,13 @@ h3.my-professions{
     font-size: 25px;
     color: #ffffff;
 }
+.service .service-item .service-item-inner h4{
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: var(--text-black-900);
+    font-weight: 700;
+    text-transform: capitalize;
+}
 
 
  
