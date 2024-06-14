@@ -335,9 +335,11 @@ h3.my-professions{
     flex: 0 0 60%;
     max-width: 60%;
     background-color: red;
+    margin-top: 40px;
 }
 .about .about-content .skills{
     flex: 0 0 40%;
     max-width: 40%;
     background-color: green;
+    margin-top: 40px;
 }
