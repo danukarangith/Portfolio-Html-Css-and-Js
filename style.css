@@ -511,7 +511,13 @@ h3.my-professions{
     display: block;
     margin: 0 auto 30px;
     text-align: center;
-    background-color: red;
+   
 }
+.service .service-item .service-item-inner .icon .fa{
+    font-size: 40px;
+    line-height: 60px;
+    color: var(--skin-color);
+}
+
 
  
