@@ -469,4 +469,7 @@ h3.my-professions{
     margin-bottom: 12px;
     color: var(--text-black-700);
 }
+.about .about-content .timeline .timeline-date .fa{
+    margin-right: 5px;
+}
  
