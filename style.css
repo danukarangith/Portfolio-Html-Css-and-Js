@@ -518,6 +518,7 @@ h3.my-professions{
     font-size: 40px;
     line-height: 60px;
     color: var(--skin-color);
+    transition: all 0.35 ease;
 }
 .service .service-item .service-item-inner:hover .icon{
     background-color: var(--skin-color);
