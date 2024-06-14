@@ -522,8 +522,9 @@ h3.my-professions{
 .service .service-item .service-item-inner:hover .icon{
     background-color: var(--skin-color);
 }
-.service .service-item .service-item-inner:hover .icon.fa{
-    
+.service .service-item .service-item-inner:hover .icon .fa{
+    font-size: 25px;
+    color: #ffffff;
 }
 
 
