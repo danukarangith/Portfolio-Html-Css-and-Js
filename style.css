@@ -367,3 +367,9 @@ h3.my-professions{
     max-width: 40%;
     margin-top: 40px;
 }
+.about .about-content .skills .skill-item{
+    flex: 0 0 100%;
+    max-width: 100%;
+   
+}
+
