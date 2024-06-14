@@ -312,3 +312,8 @@ h3.my-professions{
     
 
 }
+.about .about-content .about-text{
+    flex: 0 0 100%;
+    max-width: 100%;
+    background-color: red;
+}
