@@ -63,6 +63,7 @@ section{
 .section-title{
     flex: 0 0 100%;
     max-width: 100%;
+    margin-bottom: 60px;
     
 }
 .section-title h2{
@@ -303,4 +304,11 @@ h3.my-professions{
     margin-bottom: 70px;
     font-size: 20px;
     color: var(--text-black-700);
+}
+/* about */
+.about .about-content{
+    flex: 0 0 100%;
+    max-width: 100%;
+    
+
 }
