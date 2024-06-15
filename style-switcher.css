@@ -9,6 +9,10 @@
     z-index: 101;
     border-radius: 5px;
     transition: all 0.3s ease;
+    transform: translateX(100%);
+}
+.style-switcher .open{
+    transform: translateX(-25px);
 }
 .style-switcher .s-icon{
     position: absolute;
@@ -53,4 +57,19 @@
     width: 30px;
     border-radius: 50px;
     border: 1px solid red;
+}
+.style-switcher .color-1{
+    background: #ec1839;
+}
+.style-switcher .color-2{
+    background: #fa5b0f;
+}
+.style-switcher .color-3{
+    background: #37b182;
+}
+.style-switcher .color-4{
+    background: #1854b4;
+}
+.style-switcher .color-5{
+    background: #f021b2;
 }
