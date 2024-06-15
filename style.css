@@ -604,6 +604,13 @@ h3.my-professions{
     text-transform: capitalize;
     margin: 15px 0 5px;
 }
+.contact .contact-info-item p{
+    font-size: 16px;
+    line-height: 25px;
+    color: var(--text-black-700);
+    font-weight: 700;
+     
+}
 
 
  
