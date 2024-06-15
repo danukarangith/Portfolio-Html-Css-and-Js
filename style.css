@@ -552,6 +552,20 @@ h3.my-professions{
     color: var(--text-black-900);
     font-weight: 500;
 }
+.portfolio .container{
+    padding-bottom: 40px;
+}
+.portfolio .portfolio-item{
+    flex: 33.33%;
+    max-width: 33.33%;
+    margin-bottom: 30px;
+}
+.portfolio .portfolio-item-inner{
+    border: 6px solid var(--bg-black-100);
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
 
 
 
