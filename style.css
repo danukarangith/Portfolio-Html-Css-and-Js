@@ -601,6 +601,8 @@ h3.my-professions{
     font-size: 18px;
     font-weight: 700;
     color: var(--text-black-900);
+    text-transform: capitalize;
+    margin: 15px 0 5px;
 }
 
 
