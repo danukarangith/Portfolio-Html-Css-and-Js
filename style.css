@@ -597,6 +597,11 @@ h3.my-professions{
     font-size: 25px;
     color: var(--skin-color);
 }
+.contact .contact-info-item h4{
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text-black-900);
+}
 
 
  
