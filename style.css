@@ -545,6 +545,7 @@ h3.my-professions{
 .portfolio .portfolio-heading{
     flex: 0 0 100%;
     max-width: 100%;
+    margin-bottom: 40px;
      
 
 }
@@ -565,6 +566,11 @@ h3.my-professions{
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
+}
+.portfolio .portfolio-item-inner .potfolio-img img{
+    width: 100%;
+    display: block;
+    
 }
 
 
